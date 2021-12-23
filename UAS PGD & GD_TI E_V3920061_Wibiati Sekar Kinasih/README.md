@@ -6,5 +6,5 @@ dapat dimainkan oleh semua kalangan mulai dari anak-anak, remaja, hingga
 dewasa.
 
 # Cara Bermain
-Menekan mouse : untuk mengeluarkan sinar laser yang berfungsi sebagai senjata
+Menekan mouse : untuk mengeluarkan sinar laser yang berfungsi sebagai senjata;
 Menggerakkan mouse : untuk membuat pergerakan pemain, yaitu berputar
